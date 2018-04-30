@@ -1,2 +1,4 @@
 backup_banco.sql
 *.txt
+pastaIgnorada/
+pastaIgnorada/*
